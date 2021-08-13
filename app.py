@@ -2,7 +2,7 @@ import streamlit as st
 
 
 st.write("""# Rushikesh Naik🧑‍🦱
-**🧘🏼‍♂️ Data Science Aspirant🥷🏼 | Software Engineer🧑🏼‍🎓 | Data Analyst🤴🏼**
+**🧘🏼‍♂️ Data Science Aspirant🥷🏼 Software Engineer🧑🏼‍🎓 Data Analyst🤴🏼**
 
 
 """)
@@ -35,7 +35,7 @@ st.write("""
 """)
 
 st.write("""
-## Skills / Education :
+## Skills / Education 🤷🏽‍♂️:
 
 """)
 
@@ -87,7 +87,7 @@ Models)
 
 st.write(
 """
-## Personal Projects : 
+## Personal Projects 🤷🏽‍♂️: 
 - Salary Prediction : To predict the salary of employee based on the information provided in the dataset. It helped company as well as employees to get benefit and optimise.
 
 - Car Price Prediction : Developed and deployed the model using flask.It was a regression problem and in that problem my main focus was to understand Linear Regression with help of dataset present on kaggle. Initial steps were data preprocessing, feature engineering & dealing with missing values & after that I used various models. 
@@ -103,7 +103,7 @@ st.write(
 )
 
 st.write("""
-### Connect Me :
+### Connect Me 👾 :
 - Linkedin : https://www.linkedin.com/in/rushikesh-naik-1543a3169/
  - Github : https://github.com/rushikeshnaik779
   - Kaggle : https://www.kaggle.com/rushinaik
