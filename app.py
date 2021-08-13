@@ -2,7 +2,7 @@ import streamlit as st
 
 
 st.write("""# Rushikesh Naik🧑‍🦱
-**Data Science Aspirant | Software Engineer | Data Analyst**
+**🧘🏼‍♂️ Data Science Aspirant🥷🏼 | Software Engineer🧑🏼‍🎓 | Data Analyst🤴🏼**
 
 
 """)
@@ -17,7 +17,7 @@ with col1:
     """)
 with col2 : 
     st.write("""
-    - **Address** : Lahari Chowk, 
+    - **Address👀 ** : Lahari Chowk, 
     Dongaon, 443303 India
 - **Mob** : 9545442394 
 - **Email** : rushikeshnaik779@gmail.com
