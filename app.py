@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.write("""# Rushikesh Naik
+st.write("""# Rushikesh Naik🧑‍🦱
 **Data Science Aspirant | Software Engineer | Data Analyst**
 
 
