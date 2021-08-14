@@ -23,6 +23,7 @@ with col2 :
 - **Email** : rushikeshnaik779@gmail.com
     """)
 st.write("""
+## Experience:
 ### FIle Monitoring :  
  - Automated the file monitoring task with the help of Python script. In this project we developed a script which runs on the scheduled time and detects new files that arrived and the files that are yet to arrive & according to which it creates alerts using SMTP protocol where SME gets the email alert.
 
